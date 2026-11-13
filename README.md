@@ -30,7 +30,7 @@
 
 فصول الرواية ستكون متاحة للقراءة عبر موقع **عالم الروايات**:
 
-[زيارة عالم الروايات](https://arkanws513-spec.github.io/-/)
+[زيارة عالم الروايات](https://arkanws513-spec.github.io/world-of-novels/)
 
 ---
 
